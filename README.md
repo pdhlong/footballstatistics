@@ -14,5 +14,5 @@ Trần Minh Vương BI9-239
 Nguyễn Công Thành BI9-210
 Phí Đỗ Hải Long BI9-149
 
-### First report(youtube link): 
+### First report(youtube link): https://youtu.be/D_MUXVjm7vE
 
