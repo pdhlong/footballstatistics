@@ -10,3 +10,9 @@ This is an application for android.
 ### SDD: https://docs.google.com/document/d/10BBJTSX_CAisDXhyTR5I4rqiYvBeYDK14Sj5z0kC5TE/edit?usp=sharing
 
 ### group11
+Trần Minh Vương BI9-239
+Nguyễn Công Thành BI9-210
+Phí Đỗ Hải Long BI9-149
+
+### First report(youtube link): 
+
