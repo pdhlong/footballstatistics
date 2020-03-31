@@ -69,7 +69,6 @@ public class AddingPlayer extends javax.swing.JFrame {
         jLabel_imgpath = new javax.swing.JLabel();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
-        setResizable(false);
 
         jPanel1.setBackground(new java.awt.Color(51, 51, 51));
 
@@ -425,7 +424,7 @@ public class AddingPlayer extends javax.swing.JFrame {
         try {
             
             st = MyConnection.getConnection().prepareStatement(query);
-            st.setInt(1,a);
+            st.setInt(1,a); 
             rs = st.executeQuery();
         
             while(rs.next())

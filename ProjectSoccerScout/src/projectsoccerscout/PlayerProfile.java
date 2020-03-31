@@ -193,7 +193,7 @@ public class PlayerProfile extends javax.swing.JFrame {
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
         setResizable(false);
 
-        jLabel1.setIcon(new ImageIcon(image));
+        jLabel1.setIcon(new ImageIcon(new ImageIcon(image).getImage().getScaledInstance(225, 223, image.SCALE_DEFAULT)));
         jLabel1.setVerticalAlignment(javax.swing.SwingConstants.TOP);
 
         javax.swing.GroupLayout jPanel1Layout = new javax.swing.GroupLayout(jPanel1);
@@ -623,7 +623,5 @@ public class PlayerProfile extends javax.swing.JFrame {
     private javax.swing.JPanel jPanel2;
     private javax.swing.JPanel jPanel3;
     private javax.swing.JPanel jPanel9;
-    private java.awt.Panel panel1;
-    private java.awt.Panel panel2;
     // End of variables declaration//GEN-END:variables
 }
