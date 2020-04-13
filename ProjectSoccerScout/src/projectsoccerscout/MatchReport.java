@@ -4953,1123 +4953,1123 @@ public class MatchReport extends javax.swing.JFrame {
     }// </editor-fold>//GEN-END:initComponents
 
     private void jTextField1ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField1.getText();
     }
 
     private void jTextField2ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField2.getText();
     }
 
     private void jTextField3ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField3.getText();
     }
 
     private void jTextField4ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField4.getText();
     }
 
     private void jTextField5ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField5.getText();
     }                                           
 
     private void jTextField6ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField6.getText();
     }                                           
 
     private void jTextField7ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField7.getText();
     }                                           
 
     private void jTextField8ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField8.getText();
     }                                           
 
     private void jTextField9ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField9.getText();
     }                                           
 
     private void jTextField10ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField10.getText();
     }                                            
 
     private void jTextField17ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField17.getText();
     }                                            
 
     private void jTextField18ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField18.getText();
     }                                            
 
     private void jTextField19ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField19.getText();
     }                                            
 
     private void jTextField20ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField20.getText();
     }                                            
 
     private void jTextField31ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField31.getText();
     }                                            
 
     private void jTextField32ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField32.getText();
     }                                            
 
     private void jTextField33ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField33.getText();
     }                                            
 
     private void jTextField34ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField34.getText();
     }                                            
 
     private void jTextField35ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField35.getText();
     }                                            
 
     private void jTextField36ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField36.getText();
     }                                            
 
     private void jTextField37ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField37.getText();
     }                                            
 
     private void jTextField38ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField38.getText();
     }                                            
 
     private void jTextField39ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField39.getText();
     }                                            
 
     private void jTextField40ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField40.getText();
     }                                            
 
     private void jTextField41ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField41.getText();
     }                                            
 
     private void jTextField42ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField42.getText();
     }                                            
 
     private void jTextField43ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField43.getText();
     }                                            
 
     private void jTextField44ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField44.getText();
     }                                            
 
     private void jTextField45ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField45.getText();
     }                                            
 
     private void jTextField46ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField46.getText();
     }                                            
 
     private void jTextField47ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField47.getText();
     }                                            
 
     private void jTextField48ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField48.getText();
     }                                            
 
     private void jTextField49ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField49.getText();
     }                                            
 
     private void jTextField50ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField50.getText();
     }                                            
 
     private void jTextField51ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField51.getText();
     }                                            
 
     private void jTextField52ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField52.getText();
     }                                            
 
     private void jTextField53ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField53.getText();
     }                                            
 
     private void jTextField54ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField54.getText();
     }                                            
 
     private void jTextField55ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField55.getText();
     }                                            
 
     private void jTextField56ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField56.getText();
     }                                            
 
     private void jTextField57ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField57.getText();
     }                                            
 
     private void jTextField58ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField58.getText();
     }                                            
 
     private void jTextField59ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField59.getText();
     }                                            
 
     private void jTextField60ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField60.getText();
     }                                            
 
     private void jTextField61ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField61.getText();
     }                                            
 
     private void jTextField62ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField62.getText();
     }                                            
 
     private void jTextField63ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField63.getText();
     }                                            
 
     private void jTextField64ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField64.getText();
     }                                            
 
     private void jTextField65ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField65.getText();
     }                                            
 
     private void jTextField66ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField66.getText();
     }                                            
 
     private void jTextField67ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField67.getText();
     }                                            
 
     private void jTextField68ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField68.getText();
     }                                            
 
     private void jTextField69ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField69.getText();
     }                                            
 
     private void jTextField70ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField70.getText();
     }                                            
 
     private void jTextField71ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField71.getText();
     }                                            
 
     private void jTextField72ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField72.getText();
     }                                            
 
     private void jTextField73ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField73.getText();
     }                                            
 
     private void jTextField74ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField74.getText();
     }                                            
 
     private void jTextField75ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField75.getText();
     }                                            
 
     private void jTextField76ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField76.getText();
     }                                            
 
     private void jTextField77ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField77.getText();
     }                                            
 
     private void jTextField78ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField78.getText();
     }                                            
 
     private void jTextField79ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField79.getText();
     }                                            
 
     private void jTextField80ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField80.getText();
     }                                            
 
     private void jTextField81ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField81.getText();
     }                                            
 
     private void jTextField82ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField82.getText();
     }                                            
 
     private void jTextField83ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField83.getText();
     }                                            
 
     private void jTextField84ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField84.getText();
     }                                            
 
     private void jTextField85ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField85.getText();
     }                                            
 
     private void jTextField86ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField86.getText();
     }                                            
 
     private void jTextField87ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField87.getText();
     }                                            
 
     private void jTextField88ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField88.getText();
     }                                            
 
     private void jTextField89ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField89.getText();
     }                                            
 
     private void jTextField90ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField90.getText();
     }                                            
 
     private void jTextField91ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField91.getText();
     }                                            
 
     private void jTextField92ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField92.getText();
     }                                            
 
     private void jTextField93ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField93.getText();
     }                                            
 
     private void jTextField94ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField94.getText();
     }                                            
 
     private void jTextField95ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField95.getText();
     }                                            
 
     private void jTextField96ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField96.getText();
     }                                            
 
     private void jTextField97ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField97.getText();
     }                                            
 
     private void jTextField98ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField98.getText();
     }                                            
 
     private void jTextField99ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField99.getText();
     }                                            
 
     private void jTextField100ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField100.getText();
     }                                             
 
     private void jTextField101ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField101.getText();
     }                                             
 
     private void jTextField102ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField102.getText();
     }                                             
 
     private void jTextField103ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField103.getText();
     }                                             
 
     private void jTextField104ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField104.getText();
     }                                             
 
     private void jTextField105ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField105.getText();
     }                                             
 
     private void jTextField106ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField106.getText();
     }                                             
 
     private void jTextField107ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField107.getText();
     }                                             
 
     private void jTextField108ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField108.getText();
     }                                             
 
     private void jTextField109ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField109.getText();
     }                                             
 
     private void jTextField110ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField110.getText();
     }                                             
 
     private void jTextField111ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField111.getText();
     }                                             
 
     private void jTextField112ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField112.getText();
     }                                             
 
     private void jTextField113ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField113.getText();
     }                                             
 
     private void jTextField114ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField114.getText();
     }                                             
 
     private void jTextField115ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField115.getText();
     }                                             
 
     private void jTextField116ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField116.getText();
     }                                             
 
     private void jTextField117ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField117.getText();
     }                                             
 
     private void jTextField118ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField118.getText();
     }                                             
 
     private void jTextField119ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField119.getText();
     }                                             
 
     private void jTextField120ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField120.getText();
     }                                             
 
     private void jTextField121ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField121.getText();
     }                                             
 
     private void jTextField122ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField122.getText();
     }                                             
 
     private void jTextField123ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField123.getText();
     }                                             
 
     private void jTextField124ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField124.getText();
     }                                             
 
     private void jTextField125ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField125.getText();
     }                                             
 
     private void jTextField126ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField126.getText();
     }                                             
 
     private void jTextField127ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField127.getText();
     }                                             
 
     private void jTextField128ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField128.getText();
     }                                             
 
     private void jTextField129ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField129.getText();
     }                                             
 
     private void jTextField130ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField130.getText();
     }                                             
 
     private void jTextField131ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField131.getText();
     }                                             
 
     private void jTextField132ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField132.getText();
     }                                             
 
     private void jTextField133ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField133.getText();
     }                                             
 
     private void jTextField134ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField134.getText();
     }                                             
 
     private void jTextField135ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField135.getText();
     }                                             
 
     private void jTextField136ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField136.getText();
     }                                             
 
     private void jTextField137ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField137.getText();
     }                                             
 
     private void jTextField138ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField138.getText();
     }                                             
 
     private void jTextField139ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField139.getText();
     }                                             
 
     private void jTextField140ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField140.getText();
     }                                             
 
     private void jTextField141ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField141.getText();
     }                                             
 
     private void jTextField142ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField142.getText();
     }                                             
 
     private void jTextField143ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField143.getText();
     }                                             
 
     private void jTextField144ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField144.getText();
     }                                             
 
     private void jTextField145ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField145.getText();
     }                                             
 
     private void jTextField146ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField146.getText();
     }                                             
 
     private void jTextField147ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField147.getText();
     }                                             
 
     private void jTextField148ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField148.getText();
     }                                             
 
     private void jTextField149ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField149.getText();
     }                                             
 
     private void jTextField150ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField150.getText();
     }                                             
 
     private void jTextField151ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField151.getText();
     }                                             
 
     private void jTextField152ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField152.getText();
     }                                             
 
     private void jTextField153ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField153.getText();
     }                                             
 
     private void jTextField154ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField154.getText();
     }                                             
 
     private void jTextField155ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField155.getText();
     }                                             
 
     private void jTextField156ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField156.getText();
     }                                             
 
     private void jTextField157ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField157.getText();
     }                                             
 
     private void jTextField158ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField158.getText();
     }                                             
 
     private void jTextField159ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField159.getText();
     }                                             
 
     private void jTextField160ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField160.getText();
     }                                             
 
     private void jTextField161ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField161.getText();
     }                                             
 
     private void jTextField162ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField162.getText();
     }                                             
 
     private void jTextField163ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField163.getText();
     }                                             
 
     private void jTextField164ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField164.getText();
     }                                             
 
     private void jTextField165ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField165.getText();
     }                                             
 
     private void jTextField166ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField166.getText();
     }                                             
 
     private void jTextField167ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField167.getText();
     }                                             
 
     private void jTextField168ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField168.getText();
     }                                             
 
     private void jTextField169ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField169.getText();
     }                                             
 
     private void jTextField170ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField170.getText();
     }                                             
 
     private void jTextField171ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField171.getText();
     }                                             
 
     private void jTextField172ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField172.getText();
     }                                             
 
     private void jTextField173ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField173.getText();
     }                                             
 
     private void jTextField174ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField174.getText();
     }                                             
 
     private void jTextField175ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField175.getText();
     }                                             
 
     private void jTextField176ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField176.getText();
     }                                             
 
     private void jTextField177ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField177.getText();
     }                                             
 
     private void jTextField178ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField178.getText();
     }                                             
 
     private void jTextField179ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField179.getText();
     }                                             
 
     private void jTextField180ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField180.getText();
     }                                             
 
     private void jTextField181ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField181.getText();
     }                                             
 
     private void jTextField182ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField182.getText();
     }                                             
 
     private void jTextField183ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField183.getText();
     }                                             
 
     private void jTextField184ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField184.getText();
     }                                             
 
     private void jTextField185ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField185.getText();
     }                                             
 
     private void jTextField186ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField186.getText();
     }                                             
 
     private void jTextField187ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField187.getText();
     }                                             
 
     private void jTextField188ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField188.getText();
     }                                             
 
     private void jTextField189ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField189.getText();
     }                                             
 
     private void jTextField190ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField190.getText();
     }                                             
 
     private void jTextField191ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField191.getText();
     }                                             
 
     private void jTextField192ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField192.getText();
     }                                             
 
     private void jTextField193ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField193.getText();
     }                                             
 
     private void jTextField194ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField194.getText();
     }                                             
 
     private void jTextField195ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField195.getText();
     }                                             
 
     private void jTextField196ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField196.getText();
     }                                             
 
     private void jTextField197ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField197.getText();
     }                                             
 
     private void jTextField198ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField198.getText();
     }                                             
 
     private void jTextField199ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField199.getText();
     }                                             
 
     private void jTextField200ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField200.getText();
     }                                             
 
     private void jTextField201ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField201.getText();
     }                                             
 
     private void jTextField202ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField202.getText();
     }                                             
 
     private void jTextField203ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField203.getText();
     }                                             
 
     private void jTextField204ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField204.getText();
     }                                             
 
     private void jTextField205ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField205.getText();
     }                                             
 
     private void jTextField206ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField206.getText();
     }                                             
 
     private void jTextField207ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField207.getText();
     }                                             
 
     private void jTextField208ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField208.getText();
     }                                             
 
     private void jTextField209ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField209.getText();
     }                                             
 
     private void jTextField210ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField210.getText();
     }                                             
 
     private void jTextField211ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField211.getText();
     }                                             
 
     private void jTextField212ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField212.getText();
     }                                             
 
     private void jTextField213ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField213.getText();
     }                                             
 
     private void jTextField214ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField214.getText();
     }                                             
 
     private void jTextField215ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField215.getText();
     }                                             
 
     private void jTextField216ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField216.getText();
     }                                             
 
     private void jTextField217ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField217.getText();
     }                                             
 
     private void jTextField218ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField218.getText();
     }                                             
 
     private void jTextField219ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField219.getText();
     }                                             
 
     private void jTextField220ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField220.getText();
     }                                             
 
     private void jTextField221ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField221.getText();
     }                                             
 
     private void jTextField222ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField222.getText();
     }                                             
 
     private void jTextField223ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField223.getText();
     }                                             
 
     private void jTextField224ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField224.getText();
     }                                             
 
     private void jTextField225ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField225.getText();
     }                                             
 
     private void jTextField226ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField226.getText();
     }                                             
 
     private void jTextField227ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField227.getText();
     }                                             
 
     private void jTextField228ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField228.getText();
     }                                             
 
     private void jTextField229ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField229.getText();
     }                                             
 
     private void jTextField230ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField230.getText();
     }                                             
 
     private void jTextField231ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField231.getText();
     }                                             
 
     private void jTextField232ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField232.getText();
     }                                             
 
     private void jTextField233ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField233.getText();
     }                                             
 
     private void jTextField234ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField234.getText();
     }                                             
 
     private void jTextField235ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField235.getText();
     }                                             
 
     private void jTextField236ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField236.getText();
     }                                             
 
     private void jTextField237ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField237.getText();
     }                                             
 
     private void jTextField238ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField238.getText();
     }                                             
 
     private void jTextField239ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField239.getText();
     }                                             
 
     private void jTextField240ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField240.getText();
     }                                             
 
     private void jTextField241ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField241.getText();
     }                                             
 
     private void jTextField242ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField242.getText();
     }                                             
 
     private void jTextField243ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField243.getText();
     }                                             
 
     private void jTextField244ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField244.getText();
     }                                             
 
     private void jTextField245ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField245.getText();
     }                                             
 
     private void jTextField246ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField246.getText();
     }                                             
 
     private void jTextField247ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField247.getText();
     }                                             
 
     private void jTextField248ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField248.getText();
     }                                             
 
     private void jTextField249ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField249.getText();
     }                                             
 
     private void jTextField250ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField250.getText();
     }                                             
 
     private void jTextField251ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField251.getText();
     }                                             
 
     private void jTextField252ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField252.getText();
     }                                             
 
     private void jTextField253ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField253.getText();
     }                                             
 
     private void jTextField254ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField254.getText();
     }                                             
 
     private void jTextField255ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField255.getText();
     }                                             
 
     private void jTextField256ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField256.getText();
     }                                             
 
     private void jTextField257ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField257.getText();
     }                                             
 
     private void jTextField258ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField258.getText();
     }                                             
 
     private void jTextField259ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField259.getText();
     }                                             
 
     private void jTextField260ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField260.getText();
     }                                             
 
     private void jTextField261ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField261.getText();
     }                                             
 
     private void jTextField262ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField262.getText();
     }                                             
 
     private void jTextField263ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField263.getText();
     }                                             
 
     private void jTextField264ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField264.getText();
     }                                             
 
     private void jTextField265ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField265.getText();
     }                                             
 
     private void jTextField266ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField266.getText();
     }                                             
 
     private void jTextField267ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField267.getText();
     }                                             
 
     private void jTextField268ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField268.getText();
     }                                             
 
     private void jTextField269ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField269.getText();
     }                                             
 
     private void jTextField270ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField270.getText();
     }                                             
 
     private void jTextField271ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField271.getText();
     }                                             
 
     private void jTextField272ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField272.getText();
     }                                             
 
     private void jTextField273ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField273.getText();
     }                                             
 
     private void jTextField274ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField274.getText();
     }                                             
 
     private void jTextField275ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField275.getText();
     }                                             
 
     private void jTextField276ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField276.getText();
     }                                             
 
     private void jTextField277ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField277.getText();
     }                                             
 
     private void jTextField278ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField278.getText();
     }                                             
 
     private void jTextField279ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField279.getText();
     }                                             
 
     private void jTextField280ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField280.getText();
     }                                             
 
     private void jTextField281ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField281.getText();
     }                                             
 
     private void jTextField282ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField282.getText();
     }                                             
 
     private void jTextField283ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField283.getText();
     }                                             
 
     private void jTextField284ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField284.getText();
     }                                             
 
     private void jTextField285ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField285.getText();
     }                                             
 
     private void jTextField286ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField286.getText();
     }                                             
 
     private void jTextField287ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField287.getText();
     }                                             
 
     private void jTextField288ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField288.getText();
     }                                             
 
     private void jTextField289ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField289.getText();
     }                                             
 
     private void jTextField290ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField290.getText();
     }                                             
 
     private void jTextField291ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField291.getText();
     }                                             
 
     private void jTextField292ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField292.getText();
     }                                             
 
     private void jTextField293ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField293.getText();
     }                                             
 
     private void jTextField294ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField294.getText();
     }                                             
 
     private void jTextField295ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField295.getText();
     }                                             
 
     private void jTextField296ActionPerformed(java.awt.event.ActionEvent evt) {
-        this.getText();
+        jTextField296.getText();
     }                                             
 
     /**
@@ -6555,7 +6555,5 @@ public class MatchReport extends javax.swing.JFrame {
     private java.awt.Label label9;
     // End of variables declaration//GEN-END:variables
 
-    private void getText() {
-        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
-    }
+    
 }
