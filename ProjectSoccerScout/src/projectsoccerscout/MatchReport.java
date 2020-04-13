@@ -4952,1124 +4952,1124 @@ public class MatchReport extends javax.swing.JFrame {
         pack();
     }// </editor-fold>//GEN-END:initComponents
 
-    private void jTextField1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField1ActionPerformed
-        // TODO add your handling code here:
-    }//GEN-LAST:event_jTextField1ActionPerformed
+    private void jTextField1ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
+    }
 
-    private void jTextField2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField2ActionPerformed
-        // TODO add your handling code here:
-    }//GEN-LAST:event_jTextField2ActionPerformed
+    private void jTextField2ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
+    }
 
-    private void jTextField3ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField3ActionPerformed
-        // TODO add your handling code here:
-    }//GEN-LAST:event_jTextField3ActionPerformed
+    private void jTextField3ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
+    }
 
-    private void jTextField4ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField4ActionPerformed
-        // TODO add your handling code here:
-    }//GEN-LAST:event_jTextField4ActionPerformed
+    private void jTextField4ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
+    }
 
-    private void jTextField5ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField5ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField5ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField5ActionPerformed
 
-    private void jTextField6ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField6ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField6ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField6ActionPerformed
 
-    private void jTextField7ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField7ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField7ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField7ActionPerformed
 
-    private void jTextField8ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField8ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField8ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField8ActionPerformed
 
-    private void jTextField9ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField9ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField9ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField9ActionPerformed
 
-    private void jTextField10ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField10ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField10ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField10ActionPerformed
 
-    private void jTextField17ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField17ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField17ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField17ActionPerformed
 
-    private void jTextField18ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField18ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField18ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField18ActionPerformed
 
-    private void jTextField19ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField19ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField19ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField19ActionPerformed
 
-    private void jTextField20ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField20ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField20ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField20ActionPerformed
 
-    private void jTextField31ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField31ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField31ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField31ActionPerformed
 
-    private void jTextField32ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField32ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField32ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField32ActionPerformed
 
-    private void jTextField33ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField33ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField33ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField33ActionPerformed
 
-    private void jTextField34ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField34ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField34ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField34ActionPerformed
 
-    private void jTextField35ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField35ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField35ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField35ActionPerformed
 
-    private void jTextField36ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField36ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField36ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField36ActionPerformed
 
-    private void jTextField37ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField37ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField37ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField37ActionPerformed
 
-    private void jTextField38ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField38ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField38ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField38ActionPerformed
 
-    private void jTextField39ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField39ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField39ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField39ActionPerformed
 
-    private void jTextField40ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField40ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField40ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField40ActionPerformed
 
-    private void jTextField41ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField41ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField41ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField41ActionPerformed
 
-    private void jTextField42ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField42ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField42ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField42ActionPerformed
 
-    private void jTextField43ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField43ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField43ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField43ActionPerformed
 
-    private void jTextField44ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField44ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField44ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField44ActionPerformed
 
-    private void jTextField45ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField45ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField45ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField45ActionPerformed
 
-    private void jTextField46ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField46ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField46ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField46ActionPerformed
 
-    private void jTextField47ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField47ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField47ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField47ActionPerformed
 
-    private void jTextField48ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField48ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField48ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField48ActionPerformed
 
-    private void jTextField49ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField49ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField49ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField49ActionPerformed
 
-    private void jTextField50ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField50ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField50ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField50ActionPerformed
 
-    private void jTextField51ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField51ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField51ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField51ActionPerformed
 
-    private void jTextField52ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField52ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField52ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField52ActionPerformed
 
-    private void jTextField53ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField53ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField53ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField53ActionPerformed
 
-    private void jTextField54ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField54ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField54ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField54ActionPerformed
 
-    private void jTextField55ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField55ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField55ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField55ActionPerformed
 
-    private void jTextField56ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField56ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField56ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField56ActionPerformed
 
-    private void jTextField57ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField57ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField57ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField57ActionPerformed
 
-    private void jTextField58ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField58ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField58ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField58ActionPerformed
 
-    private void jTextField59ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField59ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField59ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField59ActionPerformed
 
-    private void jTextField60ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField60ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField60ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField60ActionPerformed
 
-    private void jTextField61ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField61ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField61ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField61ActionPerformed
 
-    private void jTextField62ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField62ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField62ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField62ActionPerformed
 
-    private void jTextField63ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField63ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField63ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField63ActionPerformed
 
-    private void jTextField64ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField64ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField64ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField64ActionPerformed
 
-    private void jTextField65ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField65ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField65ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField65ActionPerformed
 
-    private void jTextField66ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField66ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField66ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField66ActionPerformed
 
-    private void jTextField67ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField67ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField67ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField67ActionPerformed
 
-    private void jTextField68ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField68ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField68ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField68ActionPerformed
 
-    private void jTextField69ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField69ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField69ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField69ActionPerformed
 
-    private void jTextField70ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField70ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField70ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField70ActionPerformed
 
-    private void jTextField71ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField71ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField71ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField71ActionPerformed
 
-    private void jTextField72ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField72ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField72ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField72ActionPerformed
 
-    private void jTextField73ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField73ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField73ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField73ActionPerformed
 
-    private void jTextField74ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField74ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField74ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField74ActionPerformed
 
-    private void jTextField75ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField75ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField75ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField75ActionPerformed
 
-    private void jTextField76ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField76ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField76ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField76ActionPerformed
 
-    private void jTextField77ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField77ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField77ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField77ActionPerformed
 
-    private void jTextField78ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField78ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField78ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField78ActionPerformed
 
-    private void jTextField79ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField79ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField79ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField79ActionPerformed
 
-    private void jTextField80ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField80ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField80ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField80ActionPerformed
 
-    private void jTextField81ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField81ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField81ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField81ActionPerformed
 
-    private void jTextField82ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField82ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField82ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField82ActionPerformed
 
-    private void jTextField83ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField83ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField83ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField83ActionPerformed
 
-    private void jTextField84ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField84ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField84ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField84ActionPerformed
 
-    private void jTextField85ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField85ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField85ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField85ActionPerformed
 
-    private void jTextField86ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField86ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField86ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField86ActionPerformed
 
-    private void jTextField87ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField87ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField87ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField87ActionPerformed
 
-    private void jTextField88ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField88ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField88ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField88ActionPerformed
 
-    private void jTextField89ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField89ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField89ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField89ActionPerformed
 
-    private void jTextField90ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField90ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField90ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField90ActionPerformed
 
-    private void jTextField91ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField91ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField91ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField91ActionPerformed
 
-    private void jTextField92ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField92ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField92ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField92ActionPerformed
 
-    private void jTextField93ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField93ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField93ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField93ActionPerformed
 
-    private void jTextField94ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField94ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField94ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField94ActionPerformed
 
-    private void jTextField95ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField95ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField95ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField95ActionPerformed
 
-    private void jTextField96ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField96ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField96ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField96ActionPerformed
 
-    private void jTextField97ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField97ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField97ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField97ActionPerformed
 
-    private void jTextField98ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField98ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField98ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField98ActionPerformed
 
-    private void jTextField99ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField99ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField99ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField99ActionPerformed
 
-    private void jTextField100ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField100ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField100ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField100ActionPerformed
 
-    private void jTextField101ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField101ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField101ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField101ActionPerformed
 
-    private void jTextField102ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField102ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField102ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField102ActionPerformed
 
-    private void jTextField103ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField103ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField103ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField103ActionPerformed
 
-    private void jTextField104ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField104ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField104ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField104ActionPerformed
 
-    private void jTextField105ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField105ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField105ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField105ActionPerformed
 
-    private void jTextField106ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField106ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField106ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField106ActionPerformed
 
-    private void jTextField107ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField107ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField107ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField107ActionPerformed
 
-    private void jTextField108ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField108ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField108ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField108ActionPerformed
 
-    private void jTextField109ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField109ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField109ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField109ActionPerformed
 
-    private void jTextField110ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField110ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField110ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField110ActionPerformed
 
-    private void jTextField111ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField111ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField111ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField111ActionPerformed
 
-    private void jTextField112ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField112ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField112ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField112ActionPerformed
 
-    private void jTextField113ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField113ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField113ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField113ActionPerformed
 
-    private void jTextField114ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField114ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField114ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField114ActionPerformed
 
-    private void jTextField115ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField115ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField115ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField115ActionPerformed
 
-    private void jTextField116ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField116ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField116ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField116ActionPerformed
 
-    private void jTextField117ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField117ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField117ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField117ActionPerformed
 
-    private void jTextField118ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField118ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField118ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField118ActionPerformed
 
-    private void jTextField119ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField119ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField119ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField119ActionPerformed
 
-    private void jTextField120ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField120ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField120ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField120ActionPerformed
 
-    private void jTextField121ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField121ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField121ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField121ActionPerformed
 
-    private void jTextField122ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField122ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField122ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField122ActionPerformed
 
-    private void jTextField123ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField123ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField123ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField123ActionPerformed
 
-    private void jTextField124ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField124ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField124ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField124ActionPerformed
 
-    private void jTextField125ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField125ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField125ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField125ActionPerformed
 
-    private void jTextField126ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField126ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField126ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField126ActionPerformed
 
-    private void jTextField127ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField127ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField127ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField127ActionPerformed
 
-    private void jTextField128ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField128ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField128ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField128ActionPerformed
 
-    private void jTextField129ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField129ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField129ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField129ActionPerformed
 
-    private void jTextField130ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField130ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField130ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField130ActionPerformed
 
-    private void jTextField131ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField131ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField131ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField131ActionPerformed
 
-    private void jTextField132ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField132ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField132ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField132ActionPerformed
 
-    private void jTextField133ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField133ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField133ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField133ActionPerformed
 
-    private void jTextField134ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField134ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField134ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField134ActionPerformed
 
-    private void jTextField135ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField135ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField135ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField135ActionPerformed
 
-    private void jTextField136ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField136ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField136ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField136ActionPerformed
 
-    private void jTextField137ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField137ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField137ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField137ActionPerformed
 
-    private void jTextField138ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField138ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField138ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField138ActionPerformed
 
-    private void jTextField139ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField139ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField139ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField139ActionPerformed
 
-    private void jTextField140ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField140ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField140ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField140ActionPerformed
 
-    private void jTextField141ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField141ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField141ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField141ActionPerformed
 
-    private void jTextField142ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField142ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField142ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField142ActionPerformed
 
-    private void jTextField143ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField143ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField143ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField143ActionPerformed
 
-    private void jTextField144ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField144ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField144ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField144ActionPerformed
 
-    private void jTextField145ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField145ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField145ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField145ActionPerformed
 
-    private void jTextField146ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField146ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField146ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField146ActionPerformed
 
-    private void jTextField147ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField147ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField147ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField147ActionPerformed
 
-    private void jTextField148ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField148ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField148ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField148ActionPerformed
 
-    private void jTextField149ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField149ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField149ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField149ActionPerformed
 
-    private void jTextField150ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField150ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField150ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField150ActionPerformed
 
-    private void jTextField151ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField151ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField151ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField151ActionPerformed
 
-    private void jTextField152ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField152ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField152ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField152ActionPerformed
 
-    private void jTextField153ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField153ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField153ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField153ActionPerformed
 
-    private void jTextField154ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField154ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField154ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField154ActionPerformed
 
-    private void jTextField155ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField155ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField155ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField155ActionPerformed
 
-    private void jTextField156ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField156ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField156ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField156ActionPerformed
 
-    private void jTextField157ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField157ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField157ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField157ActionPerformed
 
-    private void jTextField158ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField158ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField158ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField158ActionPerformed
 
-    private void jTextField159ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField159ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField159ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField159ActionPerformed
 
-    private void jTextField160ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField160ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField160ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField160ActionPerformed
 
-    private void jTextField161ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField161ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField161ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField161ActionPerformed
 
-    private void jTextField162ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField162ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField162ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField162ActionPerformed
 
-    private void jTextField163ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField163ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField163ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField163ActionPerformed
 
-    private void jTextField164ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField164ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField164ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField164ActionPerformed
 
-    private void jTextField165ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField165ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField165ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField165ActionPerformed
 
-    private void jTextField166ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField166ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField166ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField166ActionPerformed
 
-    private void jTextField167ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField167ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField167ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField167ActionPerformed
 
-    private void jTextField168ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField168ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField168ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField168ActionPerformed
 
-    private void jTextField169ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField169ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField169ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField169ActionPerformed
 
-    private void jTextField170ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField170ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField170ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField170ActionPerformed
 
-    private void jTextField171ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField171ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField171ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField171ActionPerformed
 
-    private void jTextField172ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField172ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField172ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField172ActionPerformed
 
-    private void jTextField173ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField173ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField173ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField173ActionPerformed
 
-    private void jTextField174ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField174ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField174ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField174ActionPerformed
 
-    private void jTextField175ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField175ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField175ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField175ActionPerformed
 
-    private void jTextField176ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField176ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField176ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField176ActionPerformed
 
-    private void jTextField177ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField177ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField177ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField177ActionPerformed
 
-    private void jTextField178ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField178ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField178ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField178ActionPerformed
 
-    private void jTextField179ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField179ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField179ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField179ActionPerformed
 
-    private void jTextField180ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField180ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField180ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField180ActionPerformed
 
-    private void jTextField181ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField181ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField181ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField181ActionPerformed
 
-    private void jTextField182ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField182ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField182ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField182ActionPerformed
 
-    private void jTextField183ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField183ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField183ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField183ActionPerformed
 
-    private void jTextField184ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField184ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField184ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField184ActionPerformed
 
-    private void jTextField185ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField185ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField185ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField185ActionPerformed
 
-    private void jTextField186ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField186ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField186ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField186ActionPerformed
 
-    private void jTextField187ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField187ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField187ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField187ActionPerformed
 
-    private void jTextField188ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField188ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField188ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField188ActionPerformed
 
-    private void jTextField189ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField189ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField189ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField189ActionPerformed
 
-    private void jTextField190ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField190ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField190ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField190ActionPerformed
 
-    private void jTextField191ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField191ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField191ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField191ActionPerformed
 
-    private void jTextField192ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField192ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField192ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField192ActionPerformed
 
-    private void jTextField193ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField193ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField193ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField193ActionPerformed
 
-    private void jTextField194ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField194ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField194ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField194ActionPerformed
 
-    private void jTextField195ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField195ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField195ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField195ActionPerformed
 
-    private void jTextField196ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField196ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField196ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField196ActionPerformed
 
-    private void jTextField197ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField197ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField197ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField197ActionPerformed
 
-    private void jTextField198ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField198ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField198ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField198ActionPerformed
 
-    private void jTextField199ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField199ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField199ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField199ActionPerformed
 
-    private void jTextField200ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField200ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField200ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField200ActionPerformed
 
-    private void jTextField201ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField201ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField201ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField201ActionPerformed
 
-    private void jTextField202ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField202ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField202ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField202ActionPerformed
 
-    private void jTextField203ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField203ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField203ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField203ActionPerformed
 
-    private void jTextField204ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField204ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField204ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField204ActionPerformed
 
-    private void jTextField205ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField205ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField205ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField205ActionPerformed
 
-    private void jTextField206ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField206ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField206ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField206ActionPerformed
 
-    private void jTextField207ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField207ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField207ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField207ActionPerformed
 
-    private void jTextField208ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField208ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField208ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField208ActionPerformed
 
-    private void jTextField209ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField209ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField209ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField209ActionPerformed
 
-    private void jTextField210ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField210ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField210ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField210ActionPerformed
 
-    private void jTextField211ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField211ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField211ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField211ActionPerformed
 
-    private void jTextField212ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField212ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField212ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField212ActionPerformed
 
-    private void jTextField213ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField213ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField213ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField213ActionPerformed
 
-    private void jTextField214ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField214ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField214ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField214ActionPerformed
 
-    private void jTextField215ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField215ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField215ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField215ActionPerformed
 
-    private void jTextField216ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField216ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField216ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField216ActionPerformed
 
-    private void jTextField217ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField217ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField217ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField217ActionPerformed
 
-    private void jTextField218ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField218ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField218ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField218ActionPerformed
 
-    private void jTextField219ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField219ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField219ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField219ActionPerformed
 
-    private void jTextField220ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField220ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField220ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField220ActionPerformed
 
-    private void jTextField221ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField221ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField221ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField221ActionPerformed
 
-    private void jTextField222ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField222ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField222ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField222ActionPerformed
 
-    private void jTextField223ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField223ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField223ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField223ActionPerformed
 
-    private void jTextField224ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField224ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField224ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField224ActionPerformed
 
-    private void jTextField225ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField225ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField225ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField225ActionPerformed
 
-    private void jTextField226ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField226ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField226ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField226ActionPerformed
 
-    private void jTextField227ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField227ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField227ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField227ActionPerformed
 
-    private void jTextField228ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField228ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField228ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField228ActionPerformed
 
-    private void jTextField229ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField229ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField229ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField229ActionPerformed
 
-    private void jTextField230ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField230ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField230ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField230ActionPerformed
 
-    private void jTextField231ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField231ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField231ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField231ActionPerformed
 
-    private void jTextField232ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField232ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField232ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField232ActionPerformed
 
-    private void jTextField233ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField233ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField233ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField233ActionPerformed
 
-    private void jTextField234ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField234ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField234ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField234ActionPerformed
 
-    private void jTextField235ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField235ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField235ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField235ActionPerformed
 
-    private void jTextField236ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField236ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField236ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField236ActionPerformed
 
-    private void jTextField237ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField237ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField237ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField237ActionPerformed
 
-    private void jTextField238ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField238ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField238ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField238ActionPerformed
 
-    private void jTextField239ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField239ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField239ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField239ActionPerformed
 
-    private void jTextField240ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField240ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField240ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField240ActionPerformed
 
-    private void jTextField241ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField241ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField241ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField241ActionPerformed
 
-    private void jTextField242ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField242ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField242ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField242ActionPerformed
 
-    private void jTextField243ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField243ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField243ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField243ActionPerformed
 
-    private void jTextField244ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField244ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField244ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField244ActionPerformed
 
-    private void jTextField245ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField245ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField245ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField245ActionPerformed
 
-    private void jTextField246ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField246ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField246ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField246ActionPerformed
 
-    private void jTextField247ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField247ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField247ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField247ActionPerformed
 
-    private void jTextField248ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField248ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField248ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField248ActionPerformed
 
-    private void jTextField249ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField249ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField249ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField249ActionPerformed
 
-    private void jTextField250ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField250ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField250ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField250ActionPerformed
 
-    private void jTextField251ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField251ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField251ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField251ActionPerformed
 
-    private void jTextField252ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField252ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField252ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField252ActionPerformed
 
-    private void jTextField253ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField253ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField253ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField253ActionPerformed
 
-    private void jTextField254ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField254ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField254ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField254ActionPerformed
 
-    private void jTextField255ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField255ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField255ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField255ActionPerformed
 
-    private void jTextField256ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField256ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField256ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField256ActionPerformed
 
-    private void jTextField257ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField257ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField257ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField257ActionPerformed
 
-    private void jTextField258ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField258ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField258ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField258ActionPerformed
 
-    private void jTextField259ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField259ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField259ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField259ActionPerformed
 
-    private void jTextField260ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField260ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField260ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField260ActionPerformed
 
-    private void jTextField261ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField261ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField261ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField261ActionPerformed
 
-    private void jTextField262ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField262ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField262ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField262ActionPerformed
 
-    private void jTextField263ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField263ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField263ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField263ActionPerformed
 
-    private void jTextField264ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField264ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField264ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField264ActionPerformed
 
-    private void jTextField265ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField265ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField265ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField265ActionPerformed
 
-    private void jTextField266ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField266ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField266ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField266ActionPerformed
 
-    private void jTextField267ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField267ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField267ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField267ActionPerformed
 
-    private void jTextField268ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField268ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField268ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField268ActionPerformed
 
-    private void jTextField269ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField269ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField269ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField269ActionPerformed
 
-    private void jTextField270ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField270ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField270ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField270ActionPerformed
 
-    private void jTextField271ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField271ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField271ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField271ActionPerformed
 
-    private void jTextField272ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField272ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField272ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField272ActionPerformed
 
-    private void jTextField273ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField273ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField273ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField273ActionPerformed
 
-    private void jTextField274ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField274ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField274ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField274ActionPerformed
 
-    private void jTextField275ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField275ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField275ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField275ActionPerformed
 
-    private void jTextField276ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField276ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField276ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField276ActionPerformed
 
-    private void jTextField277ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField277ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField277ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField277ActionPerformed
 
-    private void jTextField278ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField278ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField278ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField278ActionPerformed
 
-    private void jTextField279ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField279ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField279ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField279ActionPerformed
 
-    private void jTextField280ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField280ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField280ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField280ActionPerformed
 
-    private void jTextField281ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField281ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField281ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField281ActionPerformed
 
-    private void jTextField282ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField282ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField282ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField282ActionPerformed
 
-    private void jTextField283ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField283ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField283ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField283ActionPerformed
 
-    private void jTextField284ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField284ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField284ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField284ActionPerformed
 
-    private void jTextField285ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField285ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField285ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField285ActionPerformed
 
-    private void jTextField286ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField286ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField286ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField286ActionPerformed
 
-    private void jTextField287ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField287ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField287ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField287ActionPerformed
 
-    private void jTextField288ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField288ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField288ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField288ActionPerformed
 
-    private void jTextField289ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField289ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField289ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField289ActionPerformed
 
-    private void jTextField290ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField290ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField290ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField290ActionPerformed
 
-    private void jTextField291ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField291ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField291ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField291ActionPerformed
 
-    private void jTextField292ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField292ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField292ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField292ActionPerformed
 
-    private void jTextField293ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField293ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField293ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField293ActionPerformed
 
-    private void jTextField294ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField294ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField294ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField294ActionPerformed
 
-    private void jTextField295ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField295ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField295ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField295ActionPerformed
 
-    private void jTextField296ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField296ActionPerformed
-        // TODO add your handling code here:
+    private void jTextField296ActionPerformed(java.awt.event.ActionEvent evt) {
+        this.getText();
     }//GEN-LAST:event_jTextField296ActionPerformed
 
     /**
