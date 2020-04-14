@@ -26,6 +26,7 @@ public class MatchPlayer extends javax.swing.JFrame {
      static ArrayList<String> MatchPlayer = new ArrayList<String>();
      Integer SubCount = 0;
      Integer GKCount = 0;
+     static ArrayList<Integer> Sub = new ArrayList<Integer>();
     /**
      * Creates new form MatchReport
      */
@@ -585,16 +586,35 @@ public class MatchPlayer extends javax.swing.JFrame {
                     return false;
            }
        }
-       if(Sub1.isSelected()) SubCount++;
-       if(Sub2.isSelected()) SubCount++;
-       if(Sub3.isSelected()) SubCount++;
-       if(Sub4.isSelected()) SubCount++;
-       if(Sub5.isSelected()) SubCount++;
-       if(Sub6.isSelected()) SubCount++;
-       if(Sub7.isSelected()) SubCount++;
+       if(Sub1.isSelected()) {
+           SubCount++;
+           Sub.add(getID(PS1.getItemAt(PS1.getSelectedIndex())));
+           
+       }
+       if(Sub2.isSelected()) {SubCount++;
+            Sub.add(getID(PS2.getItemAt(PS2.getSelectedIndex())));
+       }
+       if(Sub3.isSelected()) {SubCount++;
+                         Sub.add(getID(PS3.getItemAt(PS3.getSelectedIndex())));
+
+       }
+       if(Sub4.isSelected()) {SubCount++;
+                                Sub.add(getID(PS4.getItemAt(PS4.getSelectedIndex())));
+
+       }
+       if(Sub5.isSelected()){ SubCount++;
+                              Sub.add(getID(PS5.getItemAt(PS5.getSelectedIndex())));
+       }
+       if(Sub6.isSelected()){ SubCount++;
+                             Sub.add(getID(PS6.getItemAt(PS6.getSelectedIndex())));
+       }
+       if(Sub7.isSelected()) {SubCount++;
+                              Sub.add(getID(PS7.getItemAt(PS7.getSelectedIndex())));
+       }
        if(SubCount > 3){
             JOptionPane.showMessageDialog(null,"Out of sub,max 3");
             SubCount = 0;
+            Sub.removeAll(Sub);
             return false;
        }
        if(Pos1.getItemAt(Pos1.getSelectedIndex()).equals("GK")) GKCount++;
@@ -689,14 +709,13 @@ public class MatchPlayer extends javax.swing.JFrame {
 
     private void jButton2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton2ActionPerformed
         // TODO add your handling code here:
-        if(checkRequirement()) ;
+        if(checkRequirement()== false);
         else{
             PreparedStatement st = null;
             ResultSet rs = null;
             Connection con = MyConnection.getConnection();
             try{
-            st = con.prepareStatement("INSERT INTO `matchdatabase`(`Opponent`, `HomeAway`, `P1`, `P2`, `P3`, `P4`, `P5`, `P6`, `P7`, `P8`, `P9`, `P10`, `P11`, `Sub1`, `Sub2`, `Sub3`, `Sub4`, `Sub5`, `Sub6`, `Sub7`, `Date`, `SubCount`) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)");
-            
+            st = con.prepareStatement("INSERT INTO `matchdatabase`(`Opponent`, `HomeAway`, `P1`, `P2`, `P3`, `P4`, `P5`, `P6`, `P7`, `P8`, `P9`, `P10`, `P11`, `Sub1`, `Sub2`, `Sub3`, `Sub4`, `Sub5`, `Sub6`, `Sub7`, `Date`, `SubCount`,`CSubbed1`,`CSubbed2`,`CSubbed3`) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)");            
             st.setString(1,jTextField1.getText());
             if(jRadioButton1.isSelected()) st.setString(2,"Home");
             else st.setString(2,"Away");
@@ -722,7 +741,13 @@ public class MatchPlayer extends javax.swing.JFrame {
             String date = now.toString();
             st.setString(21, date);
             st.setInt(22,SubCount);
-            
+            for(int i = 0;i<SubCount;i++){
+                int a  = 23 + i;
+                st.setInt(a,Sub.get(i));
+            }
+            if(SubCount < 1) st.setString(23,"0");
+            if(SubCount < 2) st.setString(24,"0");
+            if(SubCount < 3) st.setString(25,"0");
             if(st.executeUpdate()!=0) System.out.println("Success");  
             }
             catch (SQLException ex){
