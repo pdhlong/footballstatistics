@@ -60,6 +60,9 @@ public class MatchPlayer extends javax.swing.JFrame {
         label2 = new java.awt.Label();
         jRadioButton1 = new javax.swing.JRadioButton();
         jRadioButton2 = new javax.swing.JRadioButton();
+        label5 = new java.awt.Label();
+        jTextField2 = new javax.swing.JTextField();
+        jTextField3 = new javax.swing.JTextField();
         jPanel3 = new javax.swing.JPanel();
         jPanel4 = new javax.swing.JPanel();
         label3 = new java.awt.Label();
@@ -120,7 +123,7 @@ public class MatchPlayer extends javax.swing.JFrame {
         jPanel1Layout.setHorizontalGroup(
             jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jPanel1Layout.createSequentialGroup()
-                .addComponent(label1, javax.swing.GroupLayout.PREFERRED_SIZE, 500, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addComponent(label1, javax.swing.GroupLayout.PREFERRED_SIZE, 300, javax.swing.GroupLayout.PREFERRED_SIZE)
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                 .addComponent(jTextField1))
         );
@@ -152,12 +155,24 @@ public class MatchPlayer extends javax.swing.JFrame {
             }
         });
 
+        label5.setText("Score(Your Team vs Opponent)\n");
+
+        jTextField2.setText("0");
+
+        jTextField3.setText("0");
+
         javax.swing.GroupLayout jPanel2Layout = new javax.swing.GroupLayout(jPanel2);
         jPanel2.setLayout(jPanel2Layout);
         jPanel2Layout.setHorizontalGroup(
             jPanel2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(jPanel2Layout.createSequentialGroup()
-                .addComponent(label2, javax.swing.GroupLayout.PREFERRED_SIZE, 500, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addComponent(label5, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                .addComponent(jTextField2, javax.swing.GroupLayout.PREFERRED_SIZE, 50, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                .addComponent(jTextField3, javax.swing.GroupLayout.PREFERRED_SIZE, 50, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addGap(17, 17, 17)
+                .addComponent(label2, javax.swing.GroupLayout.PREFERRED_SIZE, 190, javax.swing.GroupLayout.PREFERRED_SIZE)
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                 .addComponent(jRadioButton1, javax.swing.GroupLayout.PREFERRED_SIZE, 120, javax.swing.GroupLayout.PREFERRED_SIZE)
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 42, Short.MAX_VALUE)
@@ -170,6 +185,9 @@ public class MatchPlayer extends javax.swing.JFrame {
             .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jPanel2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
                 .addComponent(jRadioButton1, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
                 .addComponent(jRadioButton2, javax.swing.GroupLayout.PREFERRED_SIZE, 40, javax.swing.GroupLayout.PREFERRED_SIZE))
+            .addComponent(label5, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+            .addComponent(jTextField3, javax.swing.GroupLayout.Alignment.TRAILING)
+            .addComponent(jTextField2, javax.swing.GroupLayout.Alignment.TRAILING)
         );
 
         label3.setAlignment(java.awt.Label.CENTER);
@@ -638,6 +656,19 @@ public class MatchPlayer extends javax.swing.JFrame {
            JOptionPane.showMessageDialog(null,"Please fill in the name of the opposistion");
            return false;
        }
+       int a,b;
+       try{
+           a = Integer.parseInt(jTextField2.getText());
+           b = Integer.parseInt(jTextField3.getText());
+       }
+       catch(NumberFormatException nfe ){
+           JOptionPane.showMessageDialog(null,"Please fill an integer number");
+           return false;
+       }
+       if(a < 0 || b < 0){
+          JOptionPane.showMessageDialog(null,"Please fill an integer number larger than 0");
+          return false;
+       }
        return true;
     }
     
@@ -715,7 +746,7 @@ public class MatchPlayer extends javax.swing.JFrame {
             ResultSet rs = null;
             Connection con = MyConnection.getConnection();
             try{
-            st = con.prepareStatement("INSERT INTO `matchdatabase`(`Opponent`, `HomeAway`, `P1`, `P2`, `P3`, `P4`, `P5`, `P6`, `P7`, `P8`, `P9`, `P10`, `P11`, `Sub1`, `Sub2`, `Sub3`, `Sub4`, `Sub5`, `Sub6`, `Sub7`, `Date`, `SubCount`,`CSubbed1`,`CSubbed2`,`CSubbed3`) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)");            
+            st = con.prepareStatement("INSERT INTO `matchdatabase`(`Opponent`, `HomeAway`, `P1`, `P2`, `P3`, `P4`, `P5`, `P6`, `P7`, `P8`, `P9`, `P10`, `P11`, `Sub1`, `Sub2`, `Sub3`, `Sub4`, `Sub5`, `Sub6`, `Sub7`, `Date`, `SubCount`,`CSubbed1`,`CSubbed2`,`CSubbed3`,`Goal`,`Goaled`) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)");            
             st.setString(1,jTextField1.getText());
             if(jRadioButton1.isSelected()) st.setString(2,"Home");
             else st.setString(2,"Away");
@@ -748,6 +779,9 @@ public class MatchPlayer extends javax.swing.JFrame {
             if(SubCount < 1) st.setString(23,"0");
             if(SubCount < 2) st.setString(24,"0");
             if(SubCount < 3) st.setString(25,"0");
+            st.setInt(26,Integer.parseInt(jTextField2.getText()));
+            st.setInt(27,Integer.parseInt(jTextField3.getText()));
+
             if(st.executeUpdate()!=0) System.out.println("Success");  
             }
             catch (SQLException ex){
@@ -880,10 +914,13 @@ public class MatchPlayer extends javax.swing.JFrame {
     private javax.swing.JRadioButton jRadioButton1;
     private javax.swing.JRadioButton jRadioButton2;
     private javax.swing.JTextField jTextField1;
+    private javax.swing.JTextField jTextField2;
+    private javax.swing.JTextField jTextField3;
     private java.awt.Label label1;
     private java.awt.Label label2;
     private java.awt.Label label3;
     private java.awt.Label label4;
+    private java.awt.Label label5;
     // End of variables declaration//GEN-END:variables
 
 }
