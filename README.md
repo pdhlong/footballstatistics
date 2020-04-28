@@ -21,5 +21,5 @@ Phí Đỗ Hải Long BI9-149
 
 ## testing tool: Jemmy
 
-We use Sticker to check our project's pull requests
+We use Stickler to check our project's pull requests
 
