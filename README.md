@@ -15,9 +15,11 @@ Trần Minh Vương BI9-239
 Nguyễn Công Thành BI9-210
 Phí Đỗ Hải Long BI9-149
 
-### First report(youtube link): https://youtu.be/D_MUXVjm7vE
-### Second report(youtube link): https://youtu.be/AECyRQebaY8
-### Third report(youtube link): https://www.youtube.com/watch?v=CUtnn8ESg1Q&feature=youtu.be
+### first report(youtube link): https://youtu.be/D_MUXVjm7vE
+### second report(youtube link): https://youtu.be/AECyRQebaY8
+### third report(youtube link): https://www.youtube.com/watch?v=CUtnn8ESg1Q&feature=youtu.be
 
-## Testing tool: Jemmy
+## testing tool: Jemmy
+
+We use Sticker to check our project's pull requests
 
