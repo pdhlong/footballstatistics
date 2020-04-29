@@ -1,8 +1,3 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package projectsoccerscout;
 
 import org.junit.jupiter.api.AfterEach;
@@ -48,8 +43,6 @@ public class PlayerProfileTest {
         int expResult = 0;
         int result = instance.age(d);
         assertEquals(expResult, result);
-        // TODO review the generated test code and remove the default call to fail.
-        fail("The test case is a prototype.");
     }
 
     /**
@@ -60,8 +53,6 @@ public class PlayerProfileTest {
         System.out.println("main");
         String[] args = null;
         PlayerProfile.main(args);
-        // TODO review the generated test code and remove the default call to fail.
-        fail("The test case is a prototype.");
     }
     
 }
