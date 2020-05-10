@@ -1,4 +1,4 @@
-/*
+﻿/*
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
@@ -353,12 +353,12 @@ public class AddingPlayer extends javax.swing.JFrame {
         try{
         if(img==null){
             imageyes = false;
-            JOptionPane.showMessageDialog(null,"Not an image","Please choose a valid picutre",2);
+            JOptionPane.showMessageDialog(null,"Not an image","Please choose a valid picture",2);
         }
         }
         catch(Exception e){
             
-            JOptionPane.showMessageDialog(null,"Something wrong","Please choose a valid picutre",2);
+            JOptionPane.showMessageDialog(null,"Something wrong","Please choose a valid picture",2);
             return false;
         }
         return imageyes;
