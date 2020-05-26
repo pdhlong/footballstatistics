@@ -1,5 +1,7 @@
 # footballstatistics
+
 ## seproject2020
+
 ## intro
 We all know that the famous footballers like Messi or Ronaldo have many fans all over the world and their performances or statistics are the ones to be debated a lot. Therefore, our app will store and show the statistics of the players of a famous football club (First we will start with Barcelona). This app will help the Barcelona fans to have a brief view of how the players have performed the past games.
 
@@ -19,7 +21,7 @@ Phí Đỗ Hải Long BI9-149
 ### second report(youtube link): https://youtu.be/AECyRQebaY8
 ### third report(youtube link): https://www.youtube.com/watch?v=CUtnn8ESg1Q&feature=youtu.be
 
-## testing tool: Jemmy
+## testing tool: junit
 
 We use Stickler to check our project's pull requests
 
