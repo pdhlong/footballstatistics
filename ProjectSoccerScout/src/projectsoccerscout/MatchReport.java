@@ -205,6 +205,7 @@ public class MatchReport extends javax.swing.JFrame {
             check1+=list[0][i][3];
             check2+=list[0][i][4];
             if(list[0][i][3]>2) return false;
+            if(list[0][i][3]==2 && list[0][1][4]!=1) return false;
             if(list[0][i][4]>1) return false;
         }
         if(check1 != Integer.parseInt(Yellow.getText())) return false;
@@ -5001,7 +5002,6 @@ public class MatchReport extends javax.swing.JFrame {
         if (addList()== false);
         else {  
             updateStat();
-            System.out.println(StatList.size());
             updatePlayer();
             JOptionPane.showMessageDialog(null,"Success");
             System.exit(0);
@@ -5011,13 +5011,7 @@ public class MatchReport extends javax.swing.JFrame {
         
                 
     }//GEN-LAST:event_jButton1ActionPerformed
-    public void printst(){
-        for(int i = 0;i<14;i++){
-        if(!NumList.get(i).equals("Not Subbed")){
-        System.out.println(StatList.get(i));
-    }
-}
-    }
+    
     private void SoT4ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_SoT4ActionPerformed
         // TODO add your handling code here:
     }//GEN-LAST:event_SoT4ActionPerformed

@@ -5,7 +5,6 @@
  */
 package projectsoccerscout;
 
-import java.io.IOException;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
@@ -20,25 +19,28 @@ import javax.swing.JOptionPane;
  *
  * @author oOo
  */
-public class Player extends javax.swing.JFrame {
-    ArrayList<String> Player = new ArrayList();
-    ArrayList<String> Num = new ArrayList();
-    ArrayList<String> Add = new ArrayList();
-    public void prePlayer(){
+public class Match extends javax.swing.JFrame {
+    ArrayList<String> Match = new ArrayList();
+    ArrayList<String> Station = new ArrayList();
+    ArrayList<String> Score = new ArrayList();
+    ArrayList<Integer> ID = new ArrayList();
+    public void getMatch(){
          PreparedStatement st = null;
          ResultSet rs = null;
          Connection con = MyConnection.getConnection();
          try{
            
-            String query = "SELECT * FROM `playertable` ";
+            String query = "SELECT * FROM `matchdatabase` ";
             st = con.prepareStatement(query);
             rs = st.executeQuery();
             while(rs.next()!=false){
-                String name = rs.getString("name");
-                String num = String.valueOf(rs.getInt("num"));
-                Player.add(name);
-                Num.add(num);
-                Add.add(num + ". " + name);
+                String name = rs.getString("Opponent");
+                String goal = String.valueOf(rs.getInt("goal")) + "-" + String.valueOf(rs.getInt("goaled"));
+                String station = rs.getString("HomeAway");
+                int id = rs.getInt("ID");
+                String a = name + " (" + station + ") " + goal;
+                Match.add(a);
+                ID.add(id);
                 
             }   
         }
@@ -76,12 +78,11 @@ public class Player extends javax.swing.JFrame {
      * Creates new form Player
      */
     }
-    
     /**
-     * Creates new form Player
+     * Creates new form Match
      */
-    public Player() {
-        prePlayer();
+    public Match() {
+        getMatch();
         initComponents();
     }
 
@@ -94,44 +95,44 @@ public class Player extends javax.swing.JFrame {
     // <editor-fold defaultstate="collapsed" desc="Generated Code">//GEN-BEGIN:initComponents
     private void initComponents() {
 
-        jComboBox1 = new javax.swing.JComboBox<>();
         button1 = new java.awt.Button();
+        jComboBox1 = new javax.swing.JComboBox<>();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
-        DefaultComboBoxModel<String> model1 = new DefaultComboBoxModel<String>();
-        for(int i = 0;i<Add.size();i++)
-        {
-            model1.addElement(Add.get(i));
-        }
-        jComboBox1.setModel(model1);
-
-        button1.setLabel("Search\n");
+        button1.setLabel("Search");
         button1.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 button1ActionPerformed(evt);
             }
         });
 
+        DefaultComboBoxModel<String> model1 = new DefaultComboBoxModel<String>();
+        for(int i = 0;i<Match.size();i++)
+        {
+            model1.addElement(Match.get(i));
+        }
+        jComboBox1.setModel(model1);
+
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);
         layout.setHorizontalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(layout.createSequentialGroup()
-                .addGap(143, 143, 143)
+                .addGap(130, 130, 130)
                 .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
-                    .addComponent(jComboBox1, 0, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                    .addComponent(button1, javax.swing.GroupLayout.DEFAULT_SIZE, 118, Short.MAX_VALUE))
-                .addContainerGap(139, Short.MAX_VALUE))
+                    .addComponent(button1, javax.swing.GroupLayout.DEFAULT_SIZE, 138, Short.MAX_VALUE)
+                    .addComponent(jComboBox1, 0, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
+                .addContainerGap(132, Short.MAX_VALUE))
         );
         layout.setVerticalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(layout.createSequentialGroup()
-                .addGap(105, 105, 105)
-                .addComponent(jComboBox1, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 94, Short.MAX_VALUE)
-                .addComponent(button1, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addGap(55, 55, 55))
+            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, layout.createSequentialGroup()
+                .addContainerGap(96, Short.MAX_VALUE)
+                .addComponent(jComboBox1, javax.swing.GroupLayout.PREFERRED_SIZE, 39, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addGap(72, 72, 72)
+                .addComponent(button1, javax.swing.GroupLayout.PREFERRED_SIZE, 43, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addGap(50, 50, 50))
         );
 
         pack();
@@ -139,15 +140,13 @@ public class Player extends javax.swing.JFrame {
 
     private void button1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_button1ActionPerformed
         // TODO add your handling code here:
-            int a = Integer.parseInt(Num.get(this.jComboBox1.getSelectedIndex()));
-           PlayerProfile m;
+           int a = ID.get(this.jComboBox1.getSelectedIndex());
+           MatchPresent m;
         try {
-                PlayerProfile p = new PlayerProfile(a);
-                p.setVisible(true);
+            m = new MatchPresent(a);
+            m.setVisible(true);
         } catch (SQLException ex) {
             Logger.getLogger(Match.class.getName()).log(Level.SEVERE, null, ex);
-        } catch (IOException ex) {
-            Logger.getLogger(Player.class.getName()).log(Level.SEVERE, null, ex);
         }
     }//GEN-LAST:event_button1ActionPerformed
 
@@ -168,20 +167,20 @@ public class Player extends javax.swing.JFrame {
                 }
             }
         } catch (ClassNotFoundException ex) {
-            java.util.logging.Logger.getLogger(Player.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
+            java.util.logging.Logger.getLogger(Match.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
         } catch (InstantiationException ex) {
-            java.util.logging.Logger.getLogger(Player.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
+            java.util.logging.Logger.getLogger(Match.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
         } catch (IllegalAccessException ex) {
-            java.util.logging.Logger.getLogger(Player.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
+            java.util.logging.Logger.getLogger(Match.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
         } catch (javax.swing.UnsupportedLookAndFeelException ex) {
-            java.util.logging.Logger.getLogger(Player.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
+            java.util.logging.Logger.getLogger(Match.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
         }
         //</editor-fold>
 
         /* Create and display the form */
         java.awt.EventQueue.invokeLater(new Runnable() {
             public void run() {
-                new Player().setVisible(true);
+                new Match().setVisible(true);
             }
         });
     }
