@@ -9,17 +9,17 @@ The app aims to be the most basic analysis tool, a base for our (if possible) fu
 
 This is an application for android.
 
-### [SRS] https://docs.google.com/document/d/1P4kPYtV2OQv1QX-YqG7OZIIJchgt0X8wv9qsWZH7smU/edit?usp=sharing
-### [SDD] https://docs.google.com/document/d/10BBJTSX_CAisDXhyTR5I4rqiYvBeYDK14Sj5z0kC5TE/edit?usp=sharing
+### [SRS](https://docs.google.com/document/d/1P4kPYtV2OQv1QX-YqG7OZIIJchgt0X8wv9qsWZH7smU/edit?usp=sharing)
+### [SDD](https://docs.google.com/document/d/10BBJTSX_CAisDXhyTR5I4rqiYvBeYDK14Sj5z0kC5TE/edit?usp=sharing)
 
 ### group11
 Trần Minh Vương BI9-239
 Nguyễn Công Thành BI9-210
 Phí Đỗ Hải Long BI9-149
 
-### [first report(youtube link)] https://youtu.be/D_MUXVjm7vE
-### [second report(youtube link)] https://youtu.be/AECyRQebaY8
-### [third report(youtube link)] https://www.youtube.com/watch?v=CUtnn8ESg1Q&feature=youtu.be
+### [first report(youtube link)](https://youtu.be/D_MUXVjm7vE)
+### [second report(youtube link)](https://youtu.be/AECyRQebaY8)
+### [third report(youtube link)](https://www.youtube.com/watch?v=CUtnn8ESg1Q&feature=youtu.be)
 
 ## testing tool: junit
 
