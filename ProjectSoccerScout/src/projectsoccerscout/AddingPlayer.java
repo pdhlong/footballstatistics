@@ -1,4 +1,4 @@
-﻿/*
+/*
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
@@ -84,16 +84,16 @@ public class AddingPlayer extends javax.swing.JFrame {
         jPanel1Layout.setHorizontalGroup(
             jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(jPanel1Layout.createSequentialGroup()
-                .addGap(181, 181, 181)
+                .addGap(168, 168, 168)
                 .addComponent(jButton1, javax.swing.GroupLayout.PREFERRED_SIZE, 190, javax.swing.GroupLayout.PREFERRED_SIZE)
                 .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
         );
         jPanel1Layout.setVerticalGroup(
             jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(jPanel1Layout.createSequentialGroup()
-                .addGap(34, 34, 34)
+                .addGap(33, 33, 33)
                 .addComponent(jButton1)
-                .addContainerGap(41, Short.MAX_VALUE))
+                .addContainerGap(42, Short.MAX_VALUE))
         );
 
         jPanel2.setBackground(new java.awt.Color(255, 255, 255));
@@ -257,7 +257,9 @@ public class AddingPlayer extends javax.swing.JFrame {
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
         try {
             // TODO add your handling code here:
-            String ymd = this.YearBox.getItemAt(this.YearBox.getSelectedIndex()) + "-" + this.MonthBox.getItemAt(this.MonthBox.getSelectedIndex()) + "-"+this.DayBox.getItemAt(this.DayBox.getSelectedIndex());
+            String ymd = this.YearBox.getItemAt(this.YearBox.getSelectedIndex()) +
+                    "-" + this.MonthBox.getItemAt(this.MonthBox.getSelectedIndex())
+                    + "-"+this.DayBox.getItemAt(this.DayBox.getSelectedIndex());
             String name = this.NameBox.getText();
             String nation = this.NationalityBox.getItemAt(this.NationalityBox.getSelectedIndex());
             int h = Integer.parseInt(this.HeightBox.getItemAt(this.HeightBox.getSelectedIndex()));
@@ -353,12 +355,12 @@ public class AddingPlayer extends javax.swing.JFrame {
         try{
         if(img==null){
             imageyes = false;
-            JOptionPane.showMessageDialog(null,"Not an image","Please choose a valid picture",2);
+            JOptionPane.showMessageDialog(null,"Not an image","Please choose a valid picutre",2);
         }
         }
         catch(Exception e){
             
-            JOptionPane.showMessageDialog(null,"Something wrong","Please choose a valid picture",2);
+            JOptionPane.showMessageDialog(null,"Something wrong","Please choose a valid picutre",2);
             return false;
         }
         return imageyes;
