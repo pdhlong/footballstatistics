@@ -674,7 +674,7 @@ public class MatchPlayer extends javax.swing.JFrame {
     
     
     
-    private void getList() throws SQLException{
+    void getList() throws SQLException{
         PreparedStatement st = null;
         ResultSet rs = null;
         Connection con = MyConnection.getConnection();
@@ -817,6 +817,7 @@ public class MatchPlayer extends javax.swing.JFrame {
     }//GEN-LAST:event_jButton2ActionPerformed
     public int getID(String a){
         int id = 0;
+        try{
         char[] ch = a.toCharArray();
         if(Character.toString(ch[1]).equals(".") ){
             id = Integer.parseInt(Character.toString(ch[0]));  
@@ -824,6 +825,11 @@ public class MatchPlayer extends javax.swing.JFrame {
             else{
             id = Integer.parseInt(Character.toString(ch[0])+Character.toString(ch[1]));
                     };
+        
+        }
+        catch(NumberFormatException e){
+            e.printStackTrace();
+        }
         return id;
     }
     
