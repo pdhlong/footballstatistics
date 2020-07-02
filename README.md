@@ -24,4 +24,4 @@
 ## testing tool: junit
 
 * We use Stickler to check our project's pull requests
-* level 2 testing puts testers and developers into an adversarial relationship while level 4 testing need the testers and developers are on the same team 
+
